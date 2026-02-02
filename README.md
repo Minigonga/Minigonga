@@ -11,10 +11,11 @@ Here you can find a selection of projects I’ve developed throughout my academi
 
 ## Projects
 
-| UC | Descrição | Nota |
+| UC | Description | Grade<br>(/20) |
 |----|-----------|------|
-|  |  | 18 |
-|  |  |  |
+| [CG](https://github.com/Minigonga/CG) | 3D scene built with WebGL showcasing objects and materials | 18.6 |
+| IA1 |  | 18.5 |
+| [IA2](https://github.com/Minigonga/IA2) | Employee promotion prediction using supervised machine learning models | 18.0 |
 |  |  |  |
 
 </div>
