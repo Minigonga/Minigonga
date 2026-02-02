@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Minigonga/Minigonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gonçalo Pinto 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently pursuing a Master’s degree in Informatics and Computing Engineering at FEUP.
+Here you can find a selection of projects I’ve developed throughout my academic journey. These projects reflect my interest in problem-solving, software development, and continuously learning new tools and concepts. I enjoy turning ideas into practical solutions and using each project as an opportunity to grow as an engineer and developer.
+
+<div align="center">
+
+## Projects
+
+| UC | Descrição | Nota |
+|----|-----------|------|
+|  |  | 18 |
+|  |  |  |
+|  |  |  |
+
+</div>
