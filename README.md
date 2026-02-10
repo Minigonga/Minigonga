@@ -21,6 +21,7 @@ Here you can find a selection of projects I’ve developed throughout my academi
 | [COMP](https://github.com/Minigonga/Y3S2-Compilers) | Basic compiler implementation for a Java-like language | 18.72 |
 | [CPD2](https://github.com/Minigonga/Y3S2-ParallelAndDistributedComputing2) | Distributed chat system project utilizing locks for concurrency control | 18.17 |
 | [AC](https://github.com/Minigonga/Y4S1-MachineLearning) | WNBA season predictions using supervised learning | 17.6 |
-
+| [PFL2](https://github.com/Minigonga/Y3S1-FunctionalAndLogicProgramming2) | Table game Collapse implemented in Prolog using logic programming | 18.7 |
+| [LBAW](https://github.com/Minigonga/Y3S1-DatabaseAndWebApplicationsLaboratory) | Online auction platform backend implemented in Laravel | 16.6 |
 
 </div>
