@@ -23,5 +23,6 @@ Here you can find a selection of projects I’ve developed throughout my academi
 | [AC](https://github.com/Minigonga/Y4S1-MachineLearning) | WNBA season predictions using supervised learning | 17.6 |
 | [PFL2](https://github.com/Minigonga/Y3S1-FunctionalAndLogicProgramming2) | Table game Collapse implemented in Prolog using logic programming | 18.7 |
 | [LBAW](https://github.com/Minigonga/Y3S1-DatabaseAndWebApplicationsLaboratory) | Online auction platform backend implemented in Laravel | 16.6 |
+| [PRI](https://github.com/Minigonga/Y4S1-InformationProcessingAndRetrieval) | Advanced information retrieval system for Steam games with AI-powered semantic search capabilities | 16.62 |
 
 </div>
