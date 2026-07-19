@@ -16,7 +16,7 @@ Here you can find a selection of projects I’ve developed throughout my academi
 | [EDAA1&2](https://github.com/Minigonga/Y4S2-AdvancedDataStructuresAndAlgorithms) | van Emde Boas Tree analysed & Duplicate URL detector using Bloom Filters | 18.25 & 19.0 |
 | [ASSO](https://github.com/Minigonga/Y4S2_SoftwareSystemsArchitecture) | Assigments about software systems architecture | 18.0 |
 | [Optimization](https://github.com/Minigonga/Y4S2-Optimization) | Hardware procurement problem optimized | 17.8 |
-| [MFS1](https://github.com/Minigonga/Y4S2-FormalMethodsForCriticalSystems1) | Elevator System Specification and Refinement | 18.6 |
+| [MFS1](https://github.com/Minigonga/Y4S2-FormalMethodsForCriticalSystems1) | Elevator System Specification and Refinement | 19.8 |
 | [CG](https://github.com/Minigonga/Y3S2-ComputerGraphics) | Interactive 3D scene created using WebGL, featuring detailed objects and material effects | 18.6 |
 | [IA1](https://github.com/Minigonga/Y3S2-ArtificialIntelligence1) | FreeCell Solitaire with AI for hints and to complete the game | 18.5 |
 | [IA2](https://github.com/Minigonga/Y3S2-ArtificialIntelligence2) | Employee promotion prediction using supervised machine learning models | 18.0 |
