@@ -9,7 +9,7 @@ Here you can find a selection of projects I’ve developed throughout my academi
 
 <div align="center">
 
-## Projects
+## Academic Projects
 
 | UC | Description | Grade<br>(/20) |
 |----|-----------|------|
@@ -30,3 +30,9 @@ Here you can find a selection of projects I’ve developed throughout my academi
 | [PRI](https://github.com/Minigonga/Y4S1-InformationProcessingAndRetrieval) | Advanced information retrieval system for Steam games with AI-powered semantic search capabilities | 16.62 |
 | [DS](https://github.com/Minigonga/Y4S1-LargeScaleSoftwareDevelopment) | A personalized product recommendation system combining ML algorithms and real-time data processing. | 18.4 |
 </div>
+
+## Projects
+
+| Name | Description  |
+|----|-----------|
+| [Words On Stream Bot](https://github.com/Minigonga/WordsOnStreamBot) | Words on Stream Bot to win the game |
