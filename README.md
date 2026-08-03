@@ -23,6 +23,7 @@ Here you can find a selection of projects I’ve developed throughout my academi
 | [SGI1&2](https://github.com/Minigonga/Y4S1-InteractiveGraphicsSystems) | Two interactive 3D scenes created using Three.js, featuring a room and a subaquatic view | 18.5 & 19.7 |
 | [SDLE](https://github.com/Minigonga/Y4S1-LargeScaleDistributedSystems) | Local-first shopping list app leveraging CRDTs for consistent data replication between nodes | 18.3 |
 | [COMP](https://github.com/Minigonga/Y3S2-Compilers) | Basic compiler implementation for a Java-like language | 18.72 |
+| [CPD1](https://github.com/Minigonga/Y3S2-ParallelAndDistributedComputing1) | Parallel programming with performance analysis | 15.2 |
 | [CPD2](https://github.com/Minigonga/Y3S2-ParallelAndDistributedComputing2) | Distributed chat system project utilizing locks for concurrency control | 18.17 |
 | [AC](https://github.com/Minigonga/Y4S1-MachineLearning) | WNBA season predictions using supervised learning | 17.6 |
 | [PFL2](https://github.com/Minigonga/Y3S1-FunctionalAndLogicProgramming2) | Table game Collapse implemented in Prolog using logic programming | 18.7 |
