@@ -31,6 +31,8 @@ Here you can find a selection of projects I’ve developed throughout my academi
 | [LBAW](https://github.com/Minigonga/Y3S1-DatabaseAndWebApplicationsLaboratory) | Online auction platform backend implemented in Laravel | 16.6 |
 | [PRI](https://github.com/Minigonga/Y4S1-InformationProcessingAndRetrieval) | Advanced information retrieval system for Steam games with AI-powered semantic search capabilities | 16.62 |
 | [DS](https://github.com/Minigonga/Y4S1-LargeScaleSoftwareDevelopment) | A personalized product recommendation system combining ML algorithms and real-time data processing | 18.4 |
+| [DA1](https://github.com/Minigonga/Y2S2-AlgorithmDesign1) | Water supply network solved using the Edmonds–Karp algorithm | ?? |
+| [DA2](https://github.com/Minigonga/Y2S2-AlgorithmDesign2) | Traveling Salesman Problem solved using heuristics and brute-force methods | ?? |
 
 ## Projects
 
