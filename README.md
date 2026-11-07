@@ -33,6 +33,7 @@ Here you can find a selection of projects I’ve developed throughout my academi
 | [DS](https://github.com/Minigonga/Y4S1-LargeScaleSoftwareDevelopment) | A personalized product recommendation system combining ML algorithms and real-time data processing | 18.4 |
 | [DA1](https://github.com/Minigonga/Y2S2-AlgorithmDesign1) | Water supply network solved using the Edmonds–Karp algorithm | ?? |
 | [DA2](https://github.com/Minigonga/Y2S2-AlgorithmDesign2) | Traveling Salesman Problem solved using heuristics and brute-force methods | ?? |
+| [RVA1](https://github.com/Minigonga/Y5S1-VirtualAndAugmentedReality) | Multiplayer augmented reality blackjack game | ?? |
 
 ## Projects
 
