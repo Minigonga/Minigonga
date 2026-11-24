@@ -15,6 +15,7 @@ Here you can find a selection of projects I’ve developed throughout my academi
 |----|-----------|------|
 | [DA1](https://github.com/Minigonga/Y2S2-AlgorithmDesign1) | Water supply network solved using the Edmonds–Karp algorithm | ?? |
 | [DA2](https://github.com/Minigonga/Y2S2-AlgorithmDesign2) | Traveling Salesman Problem solved using heuristics and brute-force methods | ?? |
+| [ES](https://github.com/Minigonga/Y2S2-SoftwareEngineering) | A gamified productivity and study app built with Flutter and Firebase | 16.5 |
 | [PFL2](https://github.com/Minigonga/Y3S1-FunctionalAndLogicProgramming2) | Table game Collapse implemented in Prolog using logic programming | 18.7 |
 | [LBAW](https://github.com/Minigonga/Y3S1-DatabaseAndWebApplicationsLaboratory) | Online auction platform backend implemented in Laravel | 16.6 |
 | [CG](https://github.com/Minigonga/Y3S2-ComputerGraphics) | Interactive 3D scene created using WebGL, featuring detailed objects and material effects | 18.6 |
