@@ -13,26 +13,26 @@ Here you can find a selection of projects I’ve developed throughout my academi
 
 | UC | Description | Grade<br>(/20) |
 |----|-----------|------|
+| [DA1](https://github.com/Minigonga/Y2S2-AlgorithmDesign1) | Water supply network solved using the Edmonds–Karp algorithm | ?? |
+| [DA2](https://github.com/Minigonga/Y2S2-AlgorithmDesign2) | Traveling Salesman Problem solved using heuristics and brute-force methods | ?? |
+| [PFL2](https://github.com/Minigonga/Y3S1-FunctionalAndLogicProgramming2) | Table game Collapse implemented in Prolog using logic programming | 18.7 |
+| [LBAW](https://github.com/Minigonga/Y3S1-DatabaseAndWebApplicationsLaboratory) | Online auction platform backend implemented in Laravel | 16.6 |
+| [CG](https://github.com/Minigonga/Y3S2-ComputerGraphics) | Interactive 3D scene created using WebGL, featuring detailed objects and material effects | 18.6 |
+| [IA1](https://github.com/Minigonga/Y3S2-ArtificialIntelligence1) | FreeCell Solitaire with AI for hints and to complete the game | 18.5 |
+| [IA2](https://github.com/Minigonga/Y3S2-ArtificialIntelligence2) | Employee promotion prediction using supervised machine learning models | 18.0 |
+| [CPD1](https://github.com/Minigonga/Y3S2-ParallelAndDistributedComputing1) | Parallel programming with performance analysis | 15.2 |
+| [CPD2](https://github.com/Minigonga/Y3S2-ParallelAndDistributedComputing2) | Distributed chat system project utilizing locks for concurrency control | 18.17 |
+| [COMP](https://github.com/Minigonga/Y3S2-Compilers) | Basic compiler implementation for a Java-like language | 18.72 |
+| [SGI1&2](https://github.com/Minigonga/Y4S1-InteractiveGraphicsSystems) | Two interactive 3D scenes created using Three.js, featuring a room and a subaquatic view | 18.5 & 19.7 |
+| [SDLE](https://github.com/Minigonga/Y4S1-LargeScaleDistributedSystems) | Local-first shopping list app leveraging CRDTs for consistent data replication between nodes | 18.3 |
+| [AC](https://github.com/Minigonga/Y4S1-MachineLearning) | WNBA season predictions using supervised learning | 17.6 |
+| [PRI](https://github.com/Minigonga/Y4S1-InformationProcessingAndRetrieval) | Advanced information retrieval system for Steam games with semantic search capabilities | 16.62 |
+| [DS](https://github.com/Minigonga/Y4S1-LargeScaleSoftwareDevelopment) | A personalized product recommendation system combining ML algorithms and real-time data processing | 18.4 |
 | [EDAA1&2](https://github.com/Minigonga/Y4S2-AdvancedDataStructuresAndAlgorithms) | van Emde Boas Tree analysed & Duplicate URL detector using Bloom Filters | 18.25 & 19.0 |
 | [ASSO](https://github.com/Minigonga/Y4S2_SoftwareSystemsArchitecture) | Assigments about software systems architecture | 18.0 |
 | [Optimization](https://github.com/Minigonga/Y4S2-Optimization) | Hardware procurement problem optimized | 17.8 |
 | [MFS1](https://github.com/Minigonga/Y4S2-FormalMethodsForCriticalSystems1) | Elevator System Specification and Refinement | 19.8 |
 | [LGP](https://github.com/Minigonga/Y4S2-ProjectManagementLaboratory) | AI-powered Training Management Platform | 17.0 |
-| [CG](https://github.com/Minigonga/Y3S2-ComputerGraphics) | Interactive 3D scene created using WebGL, featuring detailed objects and material effects | 18.6 |
-| [IA1](https://github.com/Minigonga/Y3S2-ArtificialIntelligence1) | FreeCell Solitaire with AI for hints and to complete the game | 18.5 |
-| [IA2](https://github.com/Minigonga/Y3S2-ArtificialIntelligence2) | Employee promotion prediction using supervised machine learning models | 18.0 |
-| [SGI1&2](https://github.com/Minigonga/Y4S1-InteractiveGraphicsSystems) | Two interactive 3D scenes created using Three.js, featuring a room and a subaquatic view | 18.5 & 19.7 |
-| [SDLE](https://github.com/Minigonga/Y4S1-LargeScaleDistributedSystems) | Local-first shopping list app leveraging CRDTs for consistent data replication between nodes | 18.3 |
-| [COMP](https://github.com/Minigonga/Y3S2-Compilers) | Basic compiler implementation for a Java-like language | 18.72 |
-| [CPD1](https://github.com/Minigonga/Y3S2-ParallelAndDistributedComputing1) | Parallel programming with performance analysis | 15.2 |
-| [CPD2](https://github.com/Minigonga/Y3S2-ParallelAndDistributedComputing2) | Distributed chat system project utilizing locks for concurrency control | 18.17 |
-| [AC](https://github.com/Minigonga/Y4S1-MachineLearning) | WNBA season predictions using supervised learning | 17.6 |
-| [PFL2](https://github.com/Minigonga/Y3S1-FunctionalAndLogicProgramming2) | Table game Collapse implemented in Prolog using logic programming | 18.7 |
-| [LBAW](https://github.com/Minigonga/Y3S1-DatabaseAndWebApplicationsLaboratory) | Online auction platform backend implemented in Laravel | 16.6 |
-| [PRI](https://github.com/Minigonga/Y4S1-InformationProcessingAndRetrieval) | Advanced information retrieval system for Steam games with semantic search capabilities | 16.62 |
-| [DS](https://github.com/Minigonga/Y4S1-LargeScaleSoftwareDevelopment) | A personalized product recommendation system combining ML algorithms and real-time data processing | 18.4 |
-| [DA1](https://github.com/Minigonga/Y2S2-AlgorithmDesign1) | Water supply network solved using the Edmonds–Karp algorithm | ?? |
-| [DA2](https://github.com/Minigonga/Y2S2-AlgorithmDesign2) | Traveling Salesman Problem solved using heuristics and brute-force methods | ?? |
 | [RVA1](https://github.com/Minigonga/Y5S1-VirtualAndAugmentedReality) | Multiplayer augmented reality blackjack game | ?? |
 
 ## Projects
